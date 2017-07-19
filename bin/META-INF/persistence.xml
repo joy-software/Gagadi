@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.0" xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd">
+	<persistence-unit name="ProjetBD" transaction-type="RESOURCE_LOCAL">
+		<provider>org.hibernate.ejb.HibernatePersistence</provider>
+		<class>model.Article</class>
+		<class>model.Client</class>
+		<class>model.CommandeClient</class>
+		<class>model.CommandeFr</class>
+		<class>model.FactureAchat</class>
+		<class>model.FactureVente</class>
+		<class>model.Fournisseur</class>
+		<class>model.LigneCommandeClient</class>
+		<class>model.LigneCommandeFr</class>
+		<class>model.LigneFactureAchat</class>
+		<class>model.LigneFactureVente</class>
+		<class>model.Utilisateur</class>
+		<properties>
+			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/geststock"/>
+			<property name="javax.persistence.jdbc.user" value="root"/>
+			<property name="javax.persistence.jdbc.password" value=""/>
+			<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+			<property name="hibernate.dialect" value="org.hibernate.dialect.MySQL5InnoDBDialect" />
+		</properties>
+	</persistence-unit>
+</persistence>

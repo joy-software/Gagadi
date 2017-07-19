@@ -1,0 +1,58 @@
+	
+		--------------------------------------- PARTIE I --------------------------------------------------------
+		|																										|
+		|	1) Juste à temps, gestion economique (page 46) 														|
+		|	2) Minfi - achat du materiel bureautique (Processus D'approvisionement) 							|
+		|	a) Connaître le marché en amont  :																	|
+		|		Consulter des catalogues de prix des fournisseurs potentiels 									|
+		|	b) Expression des besoins :																			|
+		|     	: Besoin repetitif (besoin d'achat en stylos, cahiers, regles, bloc-notes, etc...) 				|
+		---------------------------------------------------------------------------------------------------------																										|
+        
+		--------------------------------------- PARTIE II -------------------------------------------------------
+		|																										|
+		|	1) Structure de remuneration (page 10) 																|
+		|		-> Salaire fixe de qualification 																|
+		|		-> Supplement collectif 																		|
+		|		-> Idemnité individuels 																	    |
+		|																										|
+		|	2) RFA  : 36 000 000                                 												|
+		|		RV : (25/100) * RFM 																			|
+		|		CSM : (R/100)*(RFA + RVM)																		|
+		|		AVM = (4/5)*(RFM + CSM + RVM) 																	|
+		|																										|
+		|		RFM : RFA/12 = 3000 000 																	    |
+		|		RVM : (25/100) * 3000 000 																		|
+		|																										|
+		|		RTM : Reveneue total mensuels : (RFM + RVM - CSM): 750 000 + 3000 000 - CSM 					|
+		|		MSA : (RTM  + CSM + AVM) * 12 																	|
+		|																										|
+		|		(page 9) 																						|
+		|																										|
+		|		RFa : Revenues fixes annuels , RFM : revenues fixes mensuels , 									|
+		|		RV : Revenues variables, CSM: Charge sociale mensuels 											|
+		|		RM : Revenues mensuels, AVM : Avantages versés mensuels											|
+		|																										|
+		|	3) Primes individuelles (page 10) 																	|
+		---------------------------------------------------------------------------------------------------------
+		
+		------------------------------------ PARTIE 3 -----------------------------------------------------------
+		|																										|
+		|	1) Regroupez les données en fonction du type 	(page 24)											|
+		|   2) a)Largeur des gammes est la somme des rayons (tu calcules) 										|																|
+		|	   b) Assortiment (page 43) , si on demane la taille on donne la somme des profondeurs				|	
+		|																										|
+		|	3) MB : Marge brute = 25/100 (page 29) 																|
+		|	   Ca : Cout d'achat : 50 Millions																	| 
+		|	   FF:  Frais fixe : (15/100)* Ca  																	|	
+		|	   FF:  Frais fixe : (15/100)* Ca  																	|	
+		|	   CA: Chiffre affaire 																				|
+		|	   Montant marge brute : MBm																		|	
+		|      MNn: Marge nette																					|
+		|	  MB : (CA - Ca)/ CA  -> CA(1-MB) = Ca -> CA= Ca/(1-MB) 											|
+		|	  MBm = (CA-Ca)																						|		
+		|	  MNn : (CA-Ca-FF)																					|	
+		|  													 													|
+		|  4) (Page 29) Ca depends du chiffre d'affaire  														|												|
+		|																										|
+		|--------------------------------------------------------------------------------------------------------
